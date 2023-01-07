@@ -1,0 +1,8 @@
+{
+  "cmake.buildDirectory": "${workspaceFolder}/build/${buildType}",
+  "cmake.generator": "Ninja",
+  "cmake.configureSettings": {
+    "CMAKE_MAKE_PROGRAM": "D:/dev/Ninja/ninja.exe",
+    "CMAKE_TOOLCHAIN_FILE": "D:/dev/vcpkg/scripts/buildsystems/vcpkg.cmake"
+  }
+}
